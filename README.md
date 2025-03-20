@@ -4,6 +4,8 @@ This study guide prepares you for the **Microsoft Azure Fundamentals (AZ-900)** 
 
 ---
 
+## Passed AZ-900 with 905!
+
 ## Table of Contents
 1. [Cloud Computing Fundamentals](#1-cloud-computing-fundamentals)
    - [High Availability](#high-availability)
